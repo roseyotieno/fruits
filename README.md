@@ -1,7 +1,7 @@
 # fruits
 ## The Essence of Fruits
 
-![an image of fruits](https://www.google.com/search?client=ms-android-huawei-rev1&sca_esv=557388832&sxsrf=AB5stBhU3-jtCVxAQ8HBSmeQAWPgwrVVmw:1692182884516&q=fruits&tbm=isch&source=lnms&sa=X&ved=2ahUKEwinvee9gOGAAxUKRKQEHR6oCB4Q0pQJegQICxAB&biw=360&bih=657&dpr=3#imgrc=Dxu1jxSw1AV7IM) 
+![an image of fruits](https://images.app.goo.gl/oqjHfpYY2XEoodze8) 
 
 Fruits are packed with *essential* **vitamins**, **minerals**, and **antioxidants** that contribute to overall health. 
 
